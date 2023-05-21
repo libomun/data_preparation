@@ -1,4 +1,4 @@
-# data_preparation
+# Data preparation project for water quality
 
 Data preparation, also known as data preprocessing, is a crucial step in the data analysis and machine learning pipeline. It involves transforming raw data into a format that is suitable for analysis or training machine learning models. Data preparation typically includes the following steps:
 
