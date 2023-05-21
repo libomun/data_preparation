@@ -17,3 +17,23 @@ Data Encoding: Categorical variables are often encoded into numerical values bef
 Data Scaling/Normalization: It is often necessary to scale or normalize the numerical features to ensure that they are on a similar scale. This helps prevent certain features from dominating the model training process due to their larger magnitude.
 
 Handling Imbalanced Data: If the dataset is imbalanced, meaning that the classes or categories are not represented equally, additional techniques such as oversampling or undersampling can be applied to address the imbalance and improve model performance.
+
+# Introduction
+Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
+This project explore water quality data systematically using data preparation techniques, such as Data Cleaning, Data Integration, Data Transformation, Feature Selection/Extraction, Data Splitting, Data Encoding, Data Scaling/Normalization, Handling Imbalanced Data
+
+![WeChat6b83e6ee9ecf1da412f476bb50badfa4](https://github.com/libomun/data_preparation/assets/99610621/829c603e-cf76-4000-a78b-655888050022)
+
+![WeChatdca53bec7903c00a0df41bf797dfdb57](https://github.com/libomun/data_preparation/assets/99610621/40fc4b12-8321-436d-afdb-c99cf9533307)
+
+![1361684672704_ pic](https://github.com/libomun/data_preparation/assets/99610621/3a1bc66d-6a4e-4959-a615-78cbf2c80d42)
+
+![1371684672704_ pic](https://github.com/libomun/data_preparation/assets/99610621/978da0aa-44ae-496d-a67e-346f144c165d)
+
+![1381684672704_ pic](https://github.com/libomun/data_preparation/assets/99610621/3e895be6-4212-4020-a42a-41fcf9165993)
+
+![1391684672704_ pic](https://github.com/libomun/data_preparation/assets/99610621/b80de3fa-d973-47c3-8b61-e95c811eb9b3)
+
+![1401684672704_ pic](https://github.com/libomun/data_preparation/assets/99610621/a96a83f8-2192-4be3-a877-8ad9209895f4)
+
+![1411684672704_ pic](https://github.com/libomun/data_preparation/assets/99610621/e1337298-912d-48ee-bf9e-20068fdadd6c)
